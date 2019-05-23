@@ -1,0 +1,7 @@
+C:\Users\Patrick\Documents\CatinaExercise\Cantina\Cantina\bin\Debug\Cantina.exe.config
+C:\Users\Patrick\Documents\CatinaExercise\Cantina\Cantina\bin\Debug\Cantina.exe
+C:\Users\Patrick\Documents\CatinaExercise\Cantina\Cantina\bin\Debug\Cantina.pdb
+C:\Users\Patrick\Documents\CatinaExercise\Cantina\Cantina\obj\Debug\Cantina.csprojAssemblyReference.cache
+C:\Users\Patrick\Documents\CatinaExercise\Cantina\Cantina\obj\Debug\Cantina.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Documents\CatinaExercise\Cantina\Cantina\obj\Debug\Cantina.exe
+C:\Users\Patrick\Documents\CatinaExercise\Cantina\Cantina\obj\Debug\Cantina.pdb
